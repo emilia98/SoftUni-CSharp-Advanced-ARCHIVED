@@ -1,0 +1,11 @@
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\bin\Debug\netcoreapp2.2\EI.deps.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\bin\Debug\netcoreapp2.2\EI.runtimeconfig.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\bin\Debug\netcoreapp2.2\EI.runtimeconfig.dev.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\bin\Debug\netcoreapp2.2\EI.dll
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\bin\Debug\netcoreapp2.2\EI.pdb
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\obj\Debug\netcoreapp2.2\EI.csprojAssemblyReference.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\obj\Debug\netcoreapp2.2\EI.csproj.CoreCompileInputs.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\obj\Debug\netcoreapp2.2\EI.AssemblyInfoInputs.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\obj\Debug\netcoreapp2.2\EI.AssemblyInfo.cs
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\obj\Debug\netcoreapp2.2\EI.dll
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\EI\obj\Debug\netcoreapp2.2\EI.pdb

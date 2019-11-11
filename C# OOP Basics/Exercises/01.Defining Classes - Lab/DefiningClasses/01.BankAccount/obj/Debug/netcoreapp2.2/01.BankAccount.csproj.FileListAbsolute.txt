@@ -1,0 +1,11 @@
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\bin\Debug\netcoreapp2.2\01.BankAccount.deps.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\bin\Debug\netcoreapp2.2\01.BankAccount.runtimeconfig.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\bin\Debug\netcoreapp2.2\01.BankAccount.runtimeconfig.dev.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\bin\Debug\netcoreapp2.2\01.BankAccount.dll
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\bin\Debug\netcoreapp2.2\01.BankAccount.pdb
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\obj\Debug\netcoreapp2.2\01.BankAccount.csprojAssemblyReference.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\obj\Debug\netcoreapp2.2\01.BankAccount.csproj.CoreCompileInputs.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\obj\Debug\netcoreapp2.2\01.BankAccount.AssemblyInfoInputs.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\obj\Debug\netcoreapp2.2\01.BankAccount.AssemblyInfo.cs
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\obj\Debug\netcoreapp2.2\01.BankAccount.dll
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\01.BankAccount\obj\Debug\netcoreapp2.2\01.BankAccount.pdb

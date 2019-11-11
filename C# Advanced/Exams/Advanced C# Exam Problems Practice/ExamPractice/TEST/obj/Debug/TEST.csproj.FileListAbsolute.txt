@@ -1,0 +1,7 @@
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\TEST\bin\Debug\TEST.exe.config
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\TEST\bin\Debug\TEST.exe
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\TEST\bin\Debug\TEST.pdb
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\TEST\obj\Debug\TEST.exe
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# Advanced\Exams\Advanced C# Exam Problems Practice\ExamPractice\TEST\obj\Debug\TEST.pdb

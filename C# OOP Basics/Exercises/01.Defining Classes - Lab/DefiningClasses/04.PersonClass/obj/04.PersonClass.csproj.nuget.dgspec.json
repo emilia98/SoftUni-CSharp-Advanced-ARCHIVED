@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GITHUB\\SoftUni-CSharp-Advanced-OLD-EDITION\\C# OOP Basics\\Exercises\\01.Defining Classes - Lab\\DefiningClasses\\04.PersonClass\\04.PersonClass.csproj": {}
+  },
+  "projects": {
+    "C:\\GITHUB\\SoftUni-CSharp-Advanced-OLD-EDITION\\C# OOP Basics\\Exercises\\01.Defining Classes - Lab\\DefiningClasses\\04.PersonClass\\04.PersonClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GITHUB\\SoftUni-CSharp-Advanced-OLD-EDITION\\C# OOP Basics\\Exercises\\01.Defining Classes - Lab\\DefiningClasses\\04.PersonClass\\04.PersonClass.csproj",
+        "projectName": "04.PersonClass",
+        "projectPath": "C:\\GITHUB\\SoftUni-CSharp-Advanced-OLD-EDITION\\C# OOP Basics\\Exercises\\01.Defining Classes - Lab\\DefiningClasses\\04.PersonClass\\04.PersonClass.csproj",
+        "packagesPath": "C:\\Users\\Emilia\\.nuget\\packages\\",
+        "outputPath": "C:\\GITHUB\\SoftUni-CSharp-Advanced-OLD-EDITION\\C# OOP Basics\\Exercises\\01.Defining Classes - Lab\\DefiningClasses\\04.PersonClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Emilia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

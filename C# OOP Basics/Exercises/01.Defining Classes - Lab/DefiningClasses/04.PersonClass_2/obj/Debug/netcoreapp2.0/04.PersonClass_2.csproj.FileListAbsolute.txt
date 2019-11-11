@@ -1,0 +1,10 @@
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\bin\Debug\netcoreapp2.0\04.PersonClass_2.deps.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\bin\Debug\netcoreapp2.0\04.PersonClass_2.runtimeconfig.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\bin\Debug\netcoreapp2.0\04.PersonClass_2.runtimeconfig.dev.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\bin\Debug\netcoreapp2.0\04.PersonClass_2.dll
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\bin\Debug\netcoreapp2.0\04.PersonClass_2.pdb
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\obj\Debug\netcoreapp2.0\04.PersonClass_2.csproj.CoreCompileInputs.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\obj\Debug\netcoreapp2.0\04.PersonClass_2.AssemblyInfoInputs.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\obj\Debug\netcoreapp2.0\04.PersonClass_2.AssemblyInfo.cs
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\obj\Debug\netcoreapp2.0\04.PersonClass_2.dll
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\04.PersonClass_2\obj\Debug\netcoreapp2.0\04.PersonClass_2.pdb

@@ -1,0 +1,11 @@
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.deps.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.runtimeconfig.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.runtimeconfig.dev.json
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.dll
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.pdb
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.csprojAssemblyReference.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.csproj.CoreCompileInputs.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.AssemblyInfoInputs.cache
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.AssemblyInfo.cs
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.dll
+C:\GITHUB\SoftUni-CSharp-Advanced-OLD-EDITION\C# OOP Basics\Exercises\01.Defining Classes - Lab\DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.pdb
